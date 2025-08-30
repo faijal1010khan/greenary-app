@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fiddle Leaf Fig",
+      "description": "A popular indoor plant with large, violin-shaped leaves, perfect for bright indoor spaces. Known for its elegant, sculptural appearance.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fiddle_leaf_fig.jpg/640px-Fiddle_leaf_fig.jpg"
+      ],
+      "rupees": 480
+    },
+    {
+      "id": 2,
+      "title": "Snake Plant",
+      "description": "A hardy, low-maintenance plant with tall, sword-like leaves. It's excellent for air purification and great for beginners.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Snake_plant.jpg/640px-Snake_plant.jpg"
+      ],
+      "rupees": 300
+    },
+    {
+      "id": 3,
+      "title": "Monstera Deliciosa",
+      "description": "Known for its unique split leaves and tropical vibes. A beautiful foliage plant that thrives in indirect sunlight.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monstera_Deliciosa_at_Cox%E2%80%99s_Bazar_Bangladesh.jpg/640px-Monstera_Deliciosa_at_Cox%E2%80%99s_Bazar_Bangladesh.jpg"
+      ],
+      "rupees": 900
+    },
+    {
+      "id": 4,
+      "title": "Bougainvillea",
+      "description": "A vibrant, colorful flowering vine known for its beautiful, paper-like blooms. Thrives in full sun and adds a tropical feel to any space.",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JDzenBtcAqWltQDsPuiUDXoUp4GMaKGNUg&s"
+      ],
+      "rupees": 980
+    },
+    {
+      "id": 5,
+      "title": "Epipremnum aureum (Marble Queen)",
+      "description": "A variegated variety of pothos with creamy white and green marbled leaves. An easy-to-care-for plant that's perfect for hanging baskets or shelves.",
+      "images": [
+        "data:image/jpeg;base64,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"
+      ],
+      "rupees": 450
+    },
+    {
+      "id": 6,
+      "title": "Epipremnum aureum (BYU, LSB)",
+      "description": "Trailing pothos plant commonly grown in homes for its air-purifying nature. It's a versatile and easy-to-grow houseplant.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Epipremnum_aureum_%28BYU%2C_LSB%29.jpg/640px-Epipremnum_aureum_%28BYU%2C_LSB%29.jpg"
+      ],
+      "rupees": 470
+    },
+    {
+      "id": 7,
+      "title": "Money Plant 'N Joy'",
+      "description": "A compact and variegated version of the Pothos plant, with bright green and white leaves. Perfect for tabletops and shelves.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Money_Plant_%28Epipremnum_aureum_%27N%27_Joy%27%29.jpg/640px-Money_Plant_%28Epipremnum_aureum_%27N%27_Joy%27%29.jpg"
+      ],
+      "rupees": 490
+    },
+    {
+      "id": 8,
+      "title": "Epipremnum aureum 'Golden Pothos'",
+      "description": "The golden variety of the money plant with striking, bright yellow-green leaves. It's a classic and popular choice for adding color to indoor spaces.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Epipremnum_aureum_%28Marble_Queen%29_houseplant.png/640px-Epipremnum_aureum_%28Marble_Queen%29_houseplant.png"
+      ],
+      "rupees": 520
+    },
+    {
+      "id": 9,
+      "title": "Epipremnum aureum Indoor Pot",
+      "description": "A beautiful potted money plant suitable for home or office. It's known for its low-maintenance nature and ability to thrive in various lighting conditions.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Epipremnum_aureum_%28Golden_Pothos%29.jpg/640px-Epipremnum_aureum_%28Golden_Pothos%29.jpg"
+      ],
+      "rupees": 430
+    },
+    {
+      "id": 10,
+      "title": "Red Rose",
+      "description": "A classic red rose plant, symbolizing love and beauty. It produces beautiful, fragrant red flowers.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Red_rose_in_the_garden.jpg/640px-Red_rose_in_the_garden.jpg"
+      ],
+      "rupees": 450
+    },
+    {
+      "id": 11,
+      "title": "White Rose",
+      "description": "An elegant white rose plant, known for its pure, delicate blooms. It represents new beginnings and innocence.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/A_white_rose_in_a_pot_%28India%2C_2016%29.jpg/640px-A_white_rose_in_a_pot_%28India%2C_2016%29.jpg"
+      ],
+      "rupees": 410
+    },
+    {
+      "id": 12,
+      "title": "Pink Rose",
+      "description": "A beautiful pink rose plant, symbolizing gratitude and admiration. Its soft pink petals make it a charming addition to any garden or pot.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rose_in_a_pot.jpg/640px-Rose_in_a_pot.jpg"
+      ],
+      "rupees": 460
+    },
+    {
+      "id": 13,
+      "title": "Shola Roses",
+      "description": "Handcrafted decorative flowers made from the Shola plant. These delicate, paper-like flowers are perfect for home decor or crafts.",
+      "images": [
+        "https://www.themaevastore.com/cdn/shop/products/WHITECHRISTMAS-BIGPOTDECOR_5.jpg?v=1737020960&width=1080"
+      ],
+      "rupees": 480
+    },
+    {
+      "id": 14,
+      "title": "Jasmine",
+      "description": "A fragrant flowering plant known for its beautiful white blossoms and sweet scent. Often grown for its ornamental and aromatic qualities.",
+      "images": [
+        "https://m.media-amazon.com/images/I/61lV1xqiThL._UF1000,1000_QL80_.jpg"
+      ],
+      "rupees": 490
+    },
+    {
+      "id": 15,
+      "title": "Rubber Plant",
+      "description": "A popular indoor plant with large, glossy, dark green leaves. It's a low-maintenance plant that can grow quite large with proper care.",
+      "images": [
+        "https://gardengram.in/cdn/shop/products/RubberPlant.jpg?v=1709008734"
+      ],
+      "rupees": 470
+    },
+    {
+      "id": 16,
+      "title": "Artificial Monstera",
+      "description": "An artificial monstera plant, perfect for adding a touch of greenery to any space without the need for maintenance. Features realistic, split leaves.",
+      "images": [
+        "https://www.homesake.in/cdn/shop/files/IH0F022-GR-1_Theme_951fcfb0-eb53-4f2d-960b-3d8a5a1b920d.jpg?v=1754994053"
+      ],
+      "rupees": 500
+    },
+    {
+      "id": 17,
+      "title": "Christina Tree",
+      "description": "A vibrant and dense shrub with rich red new growth, making it a popular choice for hedges and ornamental planting. It's known for its fiery colors.",
+      "images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-syzygium-campanulatum-christina-tree-plant-in-grower-round-black-pot-732398.jpg?v=1679751756"
+      ],
+      "rupees": 420
+    },
+    {
+      "id": 18,
+      "title": "Neon Money Plant",
+      "description": "A stunning variety of pothos with bright, chartreuse-yellow leaves. Its vibrant color makes it a standout plant for indoor spaces.",
+      "images": [
+        "https://gachwala.in/wp-content/uploads/2022/06/IMAGE-1-15.webp"
+      ],
+      "rupees": 440
+    },
+    {
+      "id": 19,
+      "title": "Comosum Sydney Plants",
+      "description": "A spider plant variety with green and white variegated leaves. Known for producing 'spiderettes' that dangle from the mother plant.",
+      "images": [
+        "https://m.media-amazon.com/images/I/71DL-cfC04L._UF1000,1000_QL80_.jpg"
+      ],
+      "rupees": 470
+    },
+    {
+      "id": 20,
+      "title": "Red Bougainvillea",
+      "description": "A beautiful red bougainvillea hybrid plant. Its bright, red flowers add a spectacular splash of color to gardens and patios.",
+      "images": [
+        "https://m.media-amazon.com/images/I/81pql9Gq-LL._UF1000,1000_QL80_.jpg"
+      ],
+      "rupees": 495
+    },
+    {
+      "id": 21,
+      "title": "Artificial Pink Bougainvillea",
+      "description": "A lifelike artificial plant featuring delicate pink bougainvillea blooms. A great way to add permanent color to your home or office decor.",
+      "images": [
+        "https://masonhome.in/cdn/shop/files/152_6d721121-73a9-4ce8-8462-5f3dddfd3a43.png?v=1749968154&width=1500"
+      ],
+      "rupees": 455
+    },
+    {
+      "id": 22,
+      "title": "Bougainvillea Gabra",
+      "description": "A type of bougainvillea known for its large, bright flowers. This variety is often used for creating vibrant floral displays.",
+      "images": [
+        "https://peppyflora.com/wp-content/uploads/2025/01/Brezza-Red-Bougainvillea-3x4-Product-Peppyflora-01-a-Moz.jpg"
+      ],
+      "rupees": 440
+    },
+    {
+      "id": 23,
+      "title": "Bougainvillea Multi Color",
+      "description": "A single bougainvillea plant with multiple colors, creating a beautiful and striking floral effect. Ideal for a dynamic garden or landscape feature.",
+      "images": [
+        "https://plantshub.in/wp-content/uploads/2025/06/04ed3ac1-40b0-4a04-b2c9-075c840f198b_11zon.jpg"
+      ],
+      "rupees": 435
+    },
+    {
+      "id": 24,
+      "title": "Bougainvillea Purple",
+      "description": "A purple bougainvillea plant, valued for its deep and rich flower color. It's a great choice for adding a touch of elegance to outdoor spaces.",
+      "images": [
+        "https://plantskingdom.in/cdn/shop/products/100-Pcs-Purple-Bougainvillea-Glabra-Bonsai-Spectabilis-Willd-Bonsai-Plant-Bougainvillea-Bonsai-Flower-Potted-plan.jpg?v=1657473011&width=1445"
+      ],
+      "rupees": 500
+    },
+    {
+      "id": 25,
+      "title": "Peanut Cactus",
+      "description": "A unique cactus species with finger-like stems that cluster together. It's easy to care for and is known for its beautiful orange flowers.",
+      "images": [
+        "https://plantorbit.com/cdn/shop/files/Echinopsis_Chamaecereus_-_Peanut_Cactus._Bare_Rooted.webp?v=1754243861&width=1445"
+      ],
+      "rupees": 510
+    },
+    {
+      "id": 26,
+      "title": "Fairy Castle Cactus",
+      "description": "A slow-growing columnar cactus with many clustered stems of varying heights, resembling a miniature castle. A fun and unique addition to any cactus collection.",
+      "images": [
+        "https://gachwala.in/wp-content/uploads/2022/06/718U-AWrq1L._SY879_.jpg"
+      ],
+      "rupees": 470
+    },
+    {
+      "id": 27,
+      "title": "Boxer Cactus",
+      "description": "A columnar cactus with distinct, ribbed segments that grow upright. It's a great ornamental plant for rock gardens or pots.",
+      "images": [
+        "https://plantorbit.com/cdn/shop/files/white-Photoroom-2025-08-05T215214.333.jpg?v=1754584075&width=1445"
+      ],
+      "rupees": 490
+    },
+    {
+      "id": 28,
+      "title": "Green Cactus Pot",
+      "description": "A small, unidentified green cactus in a pot. Cacti are low-maintenance plants that thrive in dry conditions and are perfect for sunny windowsills.",
+      "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2022/7/SG/PB/QN/81785115/product-jpeg.jpg"
+      ],
+      "rupees": 440
+    },
+    {
+      "id": 29,
+      "title": "Lily",
+      "description": "A beautiful lily plant known for its large, prominent flowers and elegant appearance. Lilies come in a wide range of colors and are often used in bouquets.",
+      "images": [
+        "https://www.houseplant.co.uk/cdn/shop/articles/DSC00503.webp?v=1731077282&width=1100"
+      ],
+      "rupees": 470
+    },
+    {
+      "id": 30,
+      "title": "Yellow Lily",
+      "description": "A vibrant yellow lily plant, symbolizing happiness and gratitude. Its bright color adds a cheerful accent to any garden or floral arrangement.",
+      "images": [
+        "https://www.jiomart.com/images/product/original/rvybca9xxy/cloud-farm-hybrid-peace-lily-plant-200-mm-cf070602-product-images-orvybca9xxy-p602891257-0-202307021212.jpg?im=Resize=(420,420)"
+      ],
+      "rupees": 460
+    }
+  ]
+}

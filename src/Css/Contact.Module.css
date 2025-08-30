@@ -1,0 +1,41 @@
+
+.footer {
+  background-color: coral;
+  color: white;
+  font-size: 18px;
+  height: 50vh;
+  width: 100vw;
+}
+
+.footer-1 {
+  font-size: larger;
+  float: left;
+  margin-left: 21%;
+  margin-top: 5%;
+
+}
+
+.india{
+  height: 50px;
+  width: 50px;
+  margin-top: -5.5%;
+  margin-left: -22%;
+}
+
+.call {
+  height: 250px;
+  width: 600px;
+  float: right;
+  margin-right: 8%;
+  margin-top: 6%;
+}
+
+plaintext {
+  color: #01080fff;
+  font-size: 2.5rem;
+  font-weight: bold;
+  /* background: rgba(0, 0, 0, 0.4); */
+  padding: 20px 20px;
+  border-radius: 12px;
+  text-align: center;
+}

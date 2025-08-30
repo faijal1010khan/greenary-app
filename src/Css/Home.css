@@ -1,0 +1,71 @@
+.home {
+  font-family: 'Arial', sans-serif;
+  background-image: url(/src/images/home-galary.jpg);
+  margin: 0%;
+}
+
+h1 {
+  color: greenyellow;
+  font-size: 2.5rem;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px 40px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.plant-1 {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.5s ease-in-out;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 60%;
+  left: 70%;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  height: 50vh;
+  width: 100vw;
+}
+
+.footer-1 {
+  font-size: larger;
+  float: left;
+  margin-left: 21%;
+  margin-top: 5%;
+
+}
+
+.flag {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  transform: translate(-50%, 50%);
+  top: 110%;
+  left: 18%;
+}
+
+.call {
+  height: 250px;
+  width: 600px;
+  float: right;
+  margin-right: 8%;
+  margin-top: 6%;
+}
+
+plaintext {
+  color: greenyellow;
+  font-size: 2.5rem;
+  font-weight: bold;
+  /* background: rgba(0, 0, 0, 0.4); */
+  padding: 20px 20px;
+  border-radius: 12px;
+  text-align: center;
+}

@@ -1,0 +1,66 @@
+.heart {
+    width: 27.674482345581055px;
+    height: 23.798297882080078px;
+    border-width: 1.5px #1A1A1A;
+    position: absolute;
+    left: 1300px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.dev {
+    position: absolute;
+    left: 1340px;
+    top: 44%;
+    transform: translateY(-50%);
+    color: #CCCCCC;
+}
+.bag {
+    position: absolute;
+    left: 1360px;
+    top: 48%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    color: 1.5px solid #1A1A1A;
+}
+
+.cart {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #4D4D4D;
+    position: absolute;
+    left: 1410px;
+    top: 30%;
+    transform: translateY(-50%);
+  
+}
+
+.cart-2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    color: #4D4D4D;
+    position: absolute;
+    left: 1460px;
+    top: 30%;
+    transform: translateY(-50%);
+}
+
+.dollar {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #1A1A1A;
+
+    position: absolute;
+    left: 1413px;
+    top: 55%;
+    transform: translateY(-50%);
+}
