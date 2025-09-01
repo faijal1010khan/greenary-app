@@ -2,4 +2,6 @@
 // export const dummyjsonURL = "http://localhost:3001/products"
 export const dummyjsonURL = "http://localhost:3001/products";
 
+// export const dummyjsonURL = "https://dummyjson.com/products";
+
 

@@ -1,7 +1,7 @@
 //http://localhost:3004/
 //http://localhost:3004/plants
-import'/src/index.css'
-import '/src/App.css'
+// import'/src/index.css'
+// import '/src/App.css'
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
@@ -14,6 +14,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Provider } from 'react-redux';
 import  {store } from "./Store.js";
+
 
  const imageList = [
     'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JDzenBtcAqWltQDsPuiUDXoUp4GMaKGNUg&s',

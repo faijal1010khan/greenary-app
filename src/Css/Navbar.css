@@ -1,4 +1,4 @@
-.heart {
+/* .heart {
     width: 27.674482345581055px;
     height: 23.798297882080078px;
     border-width: 1.5px #1A1A1A;
@@ -63,4 +63,121 @@
     left: 1413px;
     top: 55%;
     transform: translateY(-50%);
+} */
+
+
+.heart {
+    width: 28px;
+    height: 24px;
+    position: absolute;
+    left: 1300px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.dev {
+    position: absolute;
+    left: 1340px;
+    top: 44%;
+    transform: translateY(-50%);
+    color: #CCCCCC;
+}
+
+.bag {
+    position: absolute;
+    left: 1360px;
+    top: 48%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    color: #1A1A1A;
+}
+
+.cart,
+.cart-2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 120%;
+    color: #4D4D4D;
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+}
+
+.cart {
+    left: 1410px;
+}
+
+.cart-2 {
+    left: 1460px;
+}
+
+.dollar {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    color: #1A1A1A;
+    position: absolute;
+    left: 1413px;
+    top: 55%;
+    transform: translateY(-50%);
+}
+
+
+/* 🔻 MEDIA QUERIES FOR RESPONSIVENESS 🔻 */
+
+@media screen and (max-width: 1440px) {
+    .heart { left: 85%; }
+    .dev { left: 88%; }
+    .bag { left: 90%; }
+    .cart { left: 93%; }
+    .cart-2 { left: 96%; }
+    .dollar { left: 93%; top: 65%; }
+}
+
+@media screen and (max-width: 1024px) {
+    .heart,
+    .dev,
+    .bag,
+    .cart,
+    .cart-2,
+    .dollar {
+        position: relative;
+        left: 0;
+        top: 0;
+        transform: none;
+        display: inline-block;
+        margin: 5px;
+    }
+    .top2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .top2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+    }
+    .heart, .dev, .bag, .cart, .cart-2, .dollar {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .cart, .cart-2, .dev {
+        display: none;
+    }
+    .top2 {
+        gap: 3px;
+    }
+    .heart, .bag, .dollar {
+        font-size: 10px;
+    }
 }
